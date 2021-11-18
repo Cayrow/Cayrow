@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Cayrow
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Cayrow
+- 👀 I’m interested in makign a website for school xd
+- 🌱 I’m currently learning html for the website
 - 📫 How to reach me: Cay#4971 
 
-<!---
-Cayrow/Cayrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
